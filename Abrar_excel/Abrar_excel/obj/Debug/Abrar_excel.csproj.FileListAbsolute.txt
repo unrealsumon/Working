@@ -1,0 +1,11 @@
+F:\working\Abrar_excel\Abrar_excel\bin\Debug\Abrar_excel.exe
+F:\working\Abrar_excel\Abrar_excel\bin\Debug\Abrar_excel.pdb
+F:\working\Abrar_excel\Abrar_excel\bin\Debug\MetroFramework.Design.dll
+F:\working\Abrar_excel\Abrar_excel\bin\Debug\MetroFramework.dll
+F:\working\Abrar_excel\Abrar_excel\bin\Debug\MetroFramework.Fonts.dll
+F:\working\Abrar_excel\Abrar_excel\obj\Debug\Abrar_excel.Form1.resources
+F:\working\Abrar_excel\Abrar_excel\obj\Debug\Abrar_excel.Properties.Resources.resources
+F:\working\Abrar_excel\Abrar_excel\obj\Debug\Abrar_excel.csproj.GenerateResource.Cache
+F:\working\Abrar_excel\Abrar_excel\obj\Debug\Abrar_excel.exe
+F:\working\Abrar_excel\Abrar_excel\obj\Debug\Abrar_excel.pdb
+F:\working\Abrar_excel\Abrar_excel\obj\Debug\Abrar_excel.csprojResolveAssemblyReference.cache
