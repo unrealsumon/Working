@@ -20,7 +20,7 @@ namespace Abrar_excel
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
-
+            MessageBox.Show("golam");
         }
 
         private void richTextBox2_TextChanged(object sender, EventArgs e)
